@@ -207,16 +207,9 @@ Evaluates the report by providing:
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Deployment
+- https://researchmind-kazrkeiasnkz6arxtiwznl.streamlit.app/
 
-- Support multiple webpages instead of only one
-- Parallel webpage scraping
-- PDF report export
-- Citation generation
-- Memory support for previous research
-- Research history database
-- Streamlit web interface
-- Multi-source report summarization
 
 ---
 
